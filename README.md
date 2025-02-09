@@ -33,7 +33,7 @@ This is a Flask-based web service that processes receipts and calculates points 
 
 ```sh
 git clone https://github.com/Davleen14/receipt_process.git
-cd receipt_processor
+cd receipt_process
 ```
 ## Running with Docker
 
